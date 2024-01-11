@@ -22,17 +22,6 @@ win32 {
 ####
     INCLUDEPATH += $$PWD/../vcpkg/win10/vcpkg_installed/x64-windows/include
     DEPENDPATH += $$PWD/../vcpkg/win10/vcpkg_installed/x64-windows/include
-####
-    #程序版本
-    VERSION = 1.0.1
-    #公司名称
-    QMAKE_TARGET_COMPANY ="vildoc.com"
-    #程序说明
-    QMAKE_TARGET_DESCRIPTION = "vildoc.com"
-    #版权信息
-    QMAKE_TARGET_COPYRIGHT = "vildoc.com"
-    #程序名称
-    QMAKE_TARGET_PRODUCT = "alisignv3"
 }
 
 
